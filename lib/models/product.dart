@@ -7,6 +7,7 @@ class ProductModel {
     required this.price,
     required this.category,
     required this.image,
+    
   });
 
   final int id;
