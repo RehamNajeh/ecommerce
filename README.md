@@ -99,9 +99,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@Reham Najeh](https://www.linkedin.com/in/reham-najeh/)
 
-Project Link: [https://github.com/yourusername/ecommerce](https://github.com/yourusername/ecommerce)
+Project Link: https://github.com/RehamNajeh/ecommerce
 
 ## Acknowledgments
 
