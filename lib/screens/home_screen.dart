@@ -5,6 +5,11 @@ class HomeScreen extends StatelessWidget {
 static String id='HomePage';
   @override
   Widget build(BuildContext context) {
-    return const Scaffold();
+    return  Scaffold(
+      appBar: AppBar(
+        centerTitle: true,
+        title: Text('New Trend'),
+      ),
+    );
   }
 }
